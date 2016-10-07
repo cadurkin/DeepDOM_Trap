@@ -8,7 +8,7 @@
 - [X] Run Trimmomatic on Columbia datasets 
 - [ ] Interleave paired end data (with khmer script interleave-reads.py)
 - [ ] Make symbolic link into the processing data folder (project)
-- [X] Wrote script for digi-norm
+- [ ] Wrote script for digi-norm
 - [ ] Run digital normalization (khmer) on all data
 - [ ] Write script for Trinity assembly for each individual sample (consider pooling things...?) 
 - [ ] Run a test assembly with Trinity
