@@ -1,4 +1,4 @@
-# DeepDOM_Trap
+# DeepDOM Sediment Trap Analysis
 
 ## To do by October 20th
 
